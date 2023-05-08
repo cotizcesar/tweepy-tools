@@ -74,4 +74,3 @@ def _get_tweets_download(name, url):
 
 user_id = get_user_id(USERNAME)
 tweets_urls = get_tweets_urls(user_id)
-tweets_media = get_tweets_download(tweets_urls)
